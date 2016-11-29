@@ -1,7 +1,7 @@
 
 **独乐乐不如众乐乐。**
 
-你踩的坑很可能后来者也回踩！拯救菜鸟人人有着！！
+你踩的坑很可能后来者也回踩！拯救菜鸟人人有责！！
 
 
 本篇为`Ember.js`开发者汇总常见问题，比如浏览器兼容性问题、组件使用等。大部分内容都摘了于[`stackoverflow`](http://stackoverflow.com/search?q=ember.js)和[`emberjs discuss`](http://discuss.emberjs.com/)。
